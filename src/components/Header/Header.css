@@ -1,0 +1,20 @@
+.Image {
+    width:200px;
+    height:200px;
+    background: orangered;
+}
+
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: #2A77AE;
+    margin-bottom: 10px;
+}
+
+.title {
+    float:left;
+}
+
+.scores {
+    float: right;
+}
